@@ -1,0 +1,9 @@
+
+@token = eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InJ1YmVuc0Bhc2hpdGEuY29tLmJyIiwiX2lkIjoiNWRiMzQ5M2VkMjc3ZGM0MDZiMzZkNzRiIiwibmFtZSI6IlJ1YmVucyBTdGFya2UiLCJpYXQiOjE1NzM3Mzk4NzUsImV4cCI6MTU3MzgyNjI3NX0.2S_cubsd0iyTybFuOGgUdpr1mlzOAkzWI4hrgq9AKDs
+@url = http://127.0.0.1:5000/
+
+
+GET {{url}}/cats
+# Content-Type: application/json
+
+

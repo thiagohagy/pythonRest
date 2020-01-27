@@ -1,0 +1,8 @@
+{
+  "secret": "198209d1298d12",
+  "dbPath": "mongodb://127.0.0.1:27017/",
+  "dbName": "yourApp",
+  "initialPort": "35",
+  "passFixture": "1",
+  "uploadPath": "/var/www/yourApp/backend/upload"
+}
